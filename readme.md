@@ -1,5 +1,5 @@
 # OpenCV demo
 
-!(./opencv-savingimages1.png)
+![screenshot](./opencv-savingimages1.png)
 
 ### What it can do
