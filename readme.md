@@ -13,4 +13,5 @@ The program is navigated using the keyboard. The instructions are written at the
 **c** - switch lines around and inside between black and dybnamicly, random changed \
 **f** - change right images to mirror reflections \
 
+_And here screenshot how it's look like with puppy model_
 ![puppy model](./opencv-savingimages1.png)
