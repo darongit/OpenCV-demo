@@ -2,11 +2,11 @@
 
 ![puppy model](./opencv-savingimages1.png)
 
-## What is purpose of this scripts
-# Trully i started to play with openCV because I wanted to work a little bit with 2D and 3D arrays
+# What is purpose of this scripts
+## Trully i started to play with openCV because I wanted to work a little bit with 2D and 3D arrays
 
-## What it can do
-# The program is navigated using the keyboard. The instructions are written at the bottom, but I can expand them slightly.
+# What it can do
+## The program is navigated using the keyboard. The instructions are written at the bottom, but I can expand them slightly.
 
 # Keys:
 **q** - just exit this program
