@@ -10,7 +10,7 @@ The program is navigated using the keyboard. The instructions are written at the
 **s** - create folder _myphotos_ and save there our image \
 **r** - rotate image by 180 degrees \
 **t** - change image to mirror reflection \
-**c** - switch lines around and inside between black and dybnamicly, random changed \
+**c** - switch lines around and inside between black and dynamically, random changed \
 **f** - change right images to mirror reflections 
 
 _And here screenshot how it's look like with puppy model_
