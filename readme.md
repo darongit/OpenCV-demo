@@ -1,7 +1,7 @@
 # OpenCV demo
 
-## What is purpose of this script
-Trully i started to play with openCV because I wanted to work a little bit with 2D and 3D arrays
+## What was the purpose of writing this script
+Trully I started to play with openCV because I wanted to work a little bit with 2D and 3D arrays
 
 ## What it can do
 The program is navigated using the keyboard. The instructions are written at the bottom, but I can expand them slightly.
