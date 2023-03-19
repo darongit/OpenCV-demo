@@ -14,4 +14,4 @@ The program is navigated using the keyboard. The instructions are written at the
 **f** - change right images to mirror reflections 
 
 _And here screenshot how it's look like with puppy model_
-![puppy model](./opencv-savingimages1.png)
+![puppy model](./screenshots/opencv-savingimages1.png)
